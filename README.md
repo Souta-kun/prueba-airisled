@@ -50,5 +50,9 @@ Adicionalmente podra:
 - Editar con el lapiz
 - Eliminar con la caneca
 
-
 <a href="https://ibb.co/64ZfFGx"><img src="https://i.ibb.co/D7bSQmy/edit.png" alt="edit" border="0" /></a>
+
+###### MENU VENTAS
+Al seleccionar Ventas en la barra superior,  podra ver un listado de ventas por mes
+
+<a href="https://ibb.co/rcNR8km"><img src="https://i.ibb.co/MGQxwns/ventas.png" alt="ventas" border="0" /></a>.
