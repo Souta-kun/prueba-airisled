@@ -1,0 +1,12 @@
+.init-login {
+  padding: 35px;
+
+  border: 1px solid black;
+  border-radius: 8px;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+.init-login__control {
+  display: block;
+  width: 300px;
+}

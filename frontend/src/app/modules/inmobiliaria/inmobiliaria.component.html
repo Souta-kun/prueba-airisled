@@ -1,0 +1,16 @@
+<mat-toolbar>
+  <span routerLink="/">INMOBILIARIA</span>
+  <nav>
+    <ul>
+      <li><a routerLink="/compras">Compras</a></li>
+      <li><a routerLink="/ventas">Ventas</a></li>
+    </ul>
+  </nav>
+  <span class="example-spacer"></span>
+
+  <button mat-icon-button aria-label="Salir" (click)="logout()">
+    <mat-icon>input</mat-icon>
+  </button>
+</mat-toolbar>
+
+<router-outlet></router-outlet>

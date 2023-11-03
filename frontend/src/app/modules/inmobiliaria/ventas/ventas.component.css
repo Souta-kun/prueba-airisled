@@ -1,0 +1,8 @@
+.middle {
+  margin: 50px;
+}
+
+.middle h1 {
+  border-bottom: 2px solid white;
+  padding-bottom: 8px;
+}

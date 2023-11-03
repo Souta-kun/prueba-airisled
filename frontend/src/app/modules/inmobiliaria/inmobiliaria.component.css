@@ -1,0 +1,23 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  padding: 8px;
+  border-radius: 8px;
+  color: black;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  background: white;
+}
